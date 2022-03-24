@@ -1,8 +1,8 @@
 linhas:
-linha 1
-linha 2
-linha 3
-linha 4
-linha 5
-linha 6
-linha 7
+linha 3-2
+linha 6-4
+linha 5-2
+linha 7-3
+linha 9-4
+linha 8-2
+linha 10-3
